@@ -1,0 +1,1 @@
+Dont add this file to git local repositary
